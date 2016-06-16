@@ -7,6 +7,5 @@
 <b>Example screenshot of our completed tank game.</b><br><br> 
 <br>
 ![Alt text](https://github.com/canithachi/tankgame/blob/master/player.jpg "English Unfilled Version")
-<br>
-![Alt text](https://github.com/canithachi/tankgame/blob/master/screenshots/ca.jpg "English Unfilled Version")
 <br><br>
+![Alt text](https://github.com/canithachi/tankgame/blob/master/screenshots/ca.jpg "English Unfilled Version")
