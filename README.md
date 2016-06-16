@@ -6,5 +6,5 @@
 <br>
 <b>Example screenshot of our completed tank game.</b><br><br> 
 <br>
-![Alt text](https://github.com/canithachi/Roll-a-Ball/blob/master/screenshots/rollaball.PNG "English Unfilled Version")
+![Alt text](https://github.com/canithachi/tankgame/blob/master/screenshots/pic.jpg "English Unfilled Version")
 <br><br>
