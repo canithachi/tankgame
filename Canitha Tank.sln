@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canitha Tank.CSharp.Plugins", "Canitha Tank.CSharp.Plugins.csproj", "{2D840D81-9F35-3A88-4356-8E5750E255BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canitha Tank.CSharp", "Canitha Tank.CSharp.csproj", "{3C40581A-13A5-50D0-923A-F4BCCB3D4E72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canitha Tank.CSharp.Editor", "Canitha Tank.CSharp.Editor.csproj", "{9D64232D-E098-E86A-0AFE-94A3EAA74343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D840D81-9F35-3A88-4356-8E5750E255BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D840D81-9F35-3A88-4356-8E5750E255BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D840D81-9F35-3A88-4356-8E5750E255BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D840D81-9F35-3A88-4356-8E5750E255BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C40581A-13A5-50D0-923A-F4BCCB3D4E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C40581A-13A5-50D0-923A-F4BCCB3D4E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C40581A-13A5-50D0-923A-F4BCCB3D4E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C40581A-13A5-50D0-923A-F4BCCB3D4E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D64232D-E098-E86A-0AFE-94A3EAA74343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D64232D-E098-E86A-0AFE-94A3EAA74343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D64232D-E098-E86A-0AFE-94A3EAA74343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D64232D-E098-E86A-0AFE-94A3EAA74343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
